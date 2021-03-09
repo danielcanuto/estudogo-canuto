@@ -12,4 +12,9 @@ func main() {
 	fmt.Print("Primeiro 	")
 	fmt.Print("Programa!")
 
+	/*
+		sobre comentarios...
+
+
+	*/
 }
